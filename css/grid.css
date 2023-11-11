@@ -26,7 +26,6 @@
 
 .item-1 {
     grid-area: item-1;
-
 }
 
 .item-2 {
@@ -64,10 +63,6 @@
 .item-10 {
     grid-area: item-10;
 }
-
-/* .grid-item {
-    overflow: hidden;
-} */
 
 .item-img {
     width: 100%;
